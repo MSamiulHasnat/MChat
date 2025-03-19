@@ -3,7 +3,7 @@ import Dashboard from '../components/Dashboard';
 
 function Settings() {
   return (
-    <div>
+    <div className="min-h-screen bg-gray-100">
       <Dashboard />
     </div>
   );
