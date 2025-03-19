@@ -1,7 +1,7 @@
 
 
 File Structure:-
-
+![alt text](/frontend/public/FileStructureForREADME.png)
 MChat/
 ├── README.md                  # Project overview, setup instructions, and documentation.
 ├── docs/
